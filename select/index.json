@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "涙がまだ悲しみだった頃",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-02-15T14:08:54.708328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_涙がまだ悲しみだった頃_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_涙がまだ悲しみだった頃_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_涙がまだ悲しみだった頃_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃 (off vocal ver.)",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/04_涙がまだ悲しみだった頃_(off_vocal_ver.)_乃木坂46.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃　off vocal ver.",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/05_涙がまだ悲しみだった頃_off_vocal_ver._Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂４６",
+      "has_synced": false,
+      "path": "select/06_涙がまだ悲しみだった頃_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_涙がまだ悲しみだった頃_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_涙がまだ悲しみだった頃_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_涙がまだ悲しみだった頃_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "涙がまだ悲しみだった頃",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_涙がまだ悲しみだった頃_乃木坂46.txt"
+    }
+  ]
+}
